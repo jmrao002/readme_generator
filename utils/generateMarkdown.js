@@ -23,7 +23,7 @@ function renderLicense(data) {
     licenseBadge = `![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)`;
     licenseString = `https://opensource.org/licenses/MPL-2.0`;
   }
-  return `${licenseBadge}, ${licenseString}`;
+  return `${licenseBadge}, Read about the license here: ${licenseString}`;
 }
 
 // Function to generate markdown for README
@@ -35,7 +35,7 @@ function generateMarkdown(data) {
 
 ## Table of Content:
 1. [Description](#description)
-2. [Installation] (#installation)
+2. [Installation](#installation)
 3. [Usage](#usage)
 4. [License](#license)
 5. [Contributors](#contributors)
