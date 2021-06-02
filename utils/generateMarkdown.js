@@ -22,6 +22,7 @@ function renderLicenseBadge(data) {
 
 // TODO: Create a function that returns the license link
 function renderLicenseLink(data) {
+  const licenseType = data.license[0];
   let licenseString = "";
   if (licenseType === "Apache") {
     licenseString = `https://opensource.org/licenses/Apache-2.0`;
