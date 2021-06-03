@@ -1,7 +1,7 @@
-# Title
+# Test
 
 ## Description
-🔍 Description
+🔍 Test
 
 ## Table of Content:
 1. [Description](#description)
@@ -15,26 +15,26 @@
 9. [Email](#email)
 
 ## Installation
-💾 In the browser
+💾 Test
 
 ## Usage
-💻 For fun~!
+💻 Test
 
 ## License
-📜 This Application is licensed under Mozilla<br>
-![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg), Read about the license here: https://opensource.org/licenses/MPL-2.0
+📜 This Application is licensed under MIT<br>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>Read about the license here: https://opensource.org/licenses/MIT
 
 ## Contributors
-👪 Me
+👪 Test
 
 ## Tests
-🧪 No
+🧪 Test
 
 ## Issues
-🤔 Call me
+🤔 Test
 
 ## GitHub
-😺 Find me on GitHub: jmrao002
+😺 Find me on GitHub: Test
 
 ## Email
-📧 jmichaelrao@gmail.com
+📧 Test
