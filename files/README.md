@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-🔍 This is the description
+🔍 This is where the description is placed
 
 ## Table of Contents:
 1. [Description](#description)
@@ -12,15 +12,13 @@
 4. [License](#license)
 5. [Contributors](#contributors)
 6. [Tests](#tests)
-7. [Issues](#issues)
-8. [GitHub](#username)
-9. [Email](#email)
+7. [Questions](#questions)
 
 ## Installation
-💾 It is installed everywhere
+💾 This is how it's installed
 
 ## Usage
-💻 It will be used for good!
+💻 This is how it'll be used
 
 ## License
 📜 This Application is licensed under MIT<br>
