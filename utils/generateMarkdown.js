@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 ${data.usage}
 
 ## License
-📜 This Application is licensed under ${data.license}. 
+📜 This Application is licensed under ${data.license}<br>
 ${renderLicense(data)}
 
 ## Contributors
