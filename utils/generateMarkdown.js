@@ -78,13 +78,8 @@ Learn more about ${data.license} here: ${renderLicenseLink(data)}
 🧪 ${data.tests}
 
 ## Questions
-🤔 ${data.issues}
-
-## GitHub
-😺 Find me on GitHub: https://github.com/${data.username}
-
-## Email
-📧 ${data.email}
+😺 Find me on GitHub: https://github.com/${data.username}<br>
+📧 Or send me an email at ${data.email}
 `;
 }
 module.exports = generateMarkdown;
