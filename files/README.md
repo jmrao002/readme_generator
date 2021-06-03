@@ -1,7 +1,9 @@
-# This is the project title
+# title
+
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
-🔍 This is a brief description of the project
+🔍 description
 
 ## Table of Contents:
 1. [Description](#description)
@@ -15,26 +17,26 @@
 9. [Email](#email)
 
 ## Installation
-💾 This is where the application is installed
+💾 installation
 
 ## Usage
-💻 This is how the project will be used
+💻 usage
 
 ## License
-📜 This Application is licensed under MIT<br>
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>Read about the license here: https://opensource.org/licenses/MIT
+📜 This Application is licensed under Apache<br>
+Learn more about Apache here: https://opensource.org/licenses/Apache-2.0
 
-## Contributors
-👪 These are the project contributors
+## Contributing
+👪 contributors
 
 ## Tests
-🧪 This is where a test would be indicated 
+🧪 test
 
-## Issues
-🤔 This is how to resolve issues
+## Questions
+🤔 issues
 
 ## GitHub
-😺 Find me on GitHub: This is the GitHub username
+😺 Find me on GitHub: https://github.com/jmrao002
 
 ## Email
-📧 This is the email address
+📧 jmichaelrao@gmail.com
