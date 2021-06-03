@@ -1,9 +1,9 @@
-# Test
+# This is the project title
 
 ## Description
-🔍 Test
+🔍 This is a brief description of the project
 
-## Table of Content:
+## Table of Contents:
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
@@ -15,26 +15,26 @@
 9. [Email](#email)
 
 ## Installation
-💾 Test
+💾 This is where the application is installed
 
 ## Usage
-💻 Test
+💻 This is how the project will be used
 
 ## License
 📜 This Application is licensed under MIT<br>
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>Read about the license here: https://opensource.org/licenses/MIT
 
 ## Contributors
-👪 Test
+👪 These are the project contributors
 
 ## Tests
-🧪 Test
+🧪 This is where a test would be indicated 
 
 ## Issues
-🤔 Test
+🤔 This is how to resolve issues
 
 ## GitHub
-😺 Find me on GitHub: Test
+😺 Find me on GitHub: This is the GitHub username
 
 ## Email
-📧 Test
+📧 This is the email address
