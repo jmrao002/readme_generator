@@ -1,9 +1,9 @@
-# title
+# Sample Title
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-🔍 description
+🔍 This is the description
 
 ## Table of Contents:
 1. [Description](#description)
@@ -17,26 +17,21 @@
 9. [Email](#email)
 
 ## Installation
-💾 installation
+💾 It is installed everywhere
 
 ## Usage
-💻 usage
+💻 It will be used for good!
 
 ## License
-📜 This Application is licensed under Apache<br>
-Learn more about Apache here: https://opensource.org/licenses/Apache-2.0
+📜 This Application is licensed under MIT<br>
+Learn more about MIT here: https://opensource.org/licenses/MIT
 
 ## Contributing
-👪 contributors
+👪 Me
 
 ## Tests
-🧪 test
+🧪 No
 
 ## Questions
-🤔 issues
-
-## GitHub
-😺 Find me on GitHub: https://github.com/jmrao002
-
-## Email
-📧 jmichaelrao@gmail.com
+😺 Find me on GitHub: https://github.com/jmrao002<br>
+📧 Or send me an email at jmichaelrao@gmail.com

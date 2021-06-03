@@ -57,9 +57,7 @@ ${renderLicenseBadge(data)}
 4. [License](#license)
 5. [Contributors](#contributors)
 6. [Tests](#tests)
-7. [Issues](#issues)
-8. [GitHub](#username)
-9. [Email](#email)
+7. [Questions](#questions)
 
 ## Installation
 💾 ${data.installation}
