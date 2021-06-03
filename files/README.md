@@ -3,32 +3,32 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-🔍 This is where the description is placed
+🔍 Sample Description
 
 ## Table of Contents:
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [License](#license)
-5. [Contributors](#contributors)
+5. [Contributing](#contributing)
 6. [Tests](#tests)
 7. [Questions](#questions)
 
 ## Installation
-💾 This is how it's installed
+💾 Sample Installation
 
 ## Usage
-💻 This is how it'll be used
+💻 Sample Usage
 
 ## License
 📜 This Application is licensed under MIT<br>
 Learn more about MIT here: https://opensource.org/licenses/MIT
 
 ## Contributing
-👪 Me
+👪 Sample Contributors
 
 ## Tests
-🧪 No
+🧪 Sample Test
 
 ## Questions
 😺 Find me on GitHub: https://github.com/jmrao002<br>
