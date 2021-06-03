@@ -28,7 +28,7 @@ Learn more about MIT here: https://opensource.org/licenses/MIT
 👪 Sample Contributors
 
 ## Tests
-🧪 Sample Test
+🧪 Sample Tests
 
 ## Questions
 😺 Find me on GitHub: https://github.com/jmrao002<br>
